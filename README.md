@@ -89,4 +89,4 @@ Power BI Desktop, Power Query, DAX (including time intelligence), data modelling
 3. If Power BI asks for the data source, point it to `data/Apex_Global_Sales_Dataset.xlsx`.
 
 ## Author
-Nyasha Muza- https://www.linkedin.com/in/nyasha-muza-799466272
+Nyasha Muza- LinkedIn: https://www.linkedin.com/in/nyasha-muza-799466272
